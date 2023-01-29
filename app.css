@@ -7,7 +7,11 @@ body {
 }
 
 h1 {
+<<<<<<< HEAD
   font-size: 12rem;
+=======
+  font-size: 18rem;
+>>>>>>> the_new_conflict
   font-family: Montserrat;
 }
 
